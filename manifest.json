@@ -1,0 +1,26 @@
+{
+    "name": "Meme Warrior",
+    "short_name": "MemeWarrior",
+    "description": "Your ultimate meme organization and sharing tool",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4a4a4a",
+    "icons": [
+        {
+            "src": "images/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "orientation": "any",
+    "categories": ["entertainment", "social"],
+    "screenshots": []
+}
